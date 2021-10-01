@@ -11,3 +11,10 @@ C:\Users\Fernando\source\repos\DiPacce.Fernando\MiCalculadora\bin\Debug\Entidade
 C:\Users\Fernando\source\repos\DiPacce.Fernando\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
 C:\Users\Fernando\source\repos\DiPacce.Fernando\MiCalculadora\obj\Debug\MiCalculadora.exe
 C:\Users\Fernando\source\repos\DiPacce.Fernando\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Fernando\Source\Repos\DiPacceFer\tps_laboratorio_ii\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.AssemblyReference.cache
+C:\Users\Fernando\Source\Repos\DiPacceFer\tps_laboratorio_ii\TP1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Fernando\Source\Repos\DiPacceFer\tps_laboratorio_ii\TP1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Fernando\Source\Repos\DiPacceFer\tps_laboratorio_ii\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Fernando\Source\Repos\DiPacceFer\tps_laboratorio_ii\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Source\Repos\DiPacceFer\tps_laboratorio_ii\TP1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Fernando\Source\Repos\DiPacceFer\tps_laboratorio_ii\TP1\MiCalculadora\obj\Debug\MiCalculadora.pdb
